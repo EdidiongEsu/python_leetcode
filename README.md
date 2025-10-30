@@ -1,2 +1,2 @@
-# python_leetcode
-dump of leetcode here
+# CODING_IMPROVEMENT
+improving my Python/SQL skills with available coding tests
