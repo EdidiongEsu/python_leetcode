@@ -1,2 +1,2 @@
 # CODING_IMPROVEMENT
-improving my Python/SQL skills with available coding tests
+improving my Python/SQL skills with available coding tests. Starting with Code signal.
